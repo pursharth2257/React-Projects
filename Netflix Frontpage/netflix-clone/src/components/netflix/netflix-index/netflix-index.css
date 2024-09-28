@@ -1,0 +1,10 @@
+.bg-image{
+    height: 100vh;
+    background-image: url("../../../../public/netflixBack.jpg");
+    background-size: cover;
+}
+
+.bg-shade{
+    height: 100vh;
+    background-color: rgb(0, 0, 0, 0.6);
+}
